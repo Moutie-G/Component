@@ -5,7 +5,7 @@ const Fname =() =>{
         lastname : "Chàaabeni"
     }
     return (
-       <h1> {console.log('I am',{Fullname}})</h1> ;
+       <h1> Hi I'm{fullName} </h1> 
     )
 export default Fname ;
 

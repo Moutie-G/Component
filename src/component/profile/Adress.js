@@ -1,10 +1,8 @@
 import react from "react" ;
- import {direwolf} from "./src" ;
-const ProfilPhoto = () => {
-    return (
-<div>
-    <img src={direwolf} alt ="direwolf"/>
-</div>
-    )
-export default profilPhot ;
-}
+ const adress = () => {
+     let adr = "Sfax" ;
+     return (
+         <h1>{adr}</h1>
+     ) ;
+ } ;
+ export default adress ;
